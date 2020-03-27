@@ -1,0 +1,24 @@
+body {
+  background-color: Aliceblue;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: red;
+}
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
+table {
+  border: 2px solid darkorchid;
+  width: 650px;
+  margin: 0 auto;
+}
+thead{
+  background-color: Seagreen;
+}
